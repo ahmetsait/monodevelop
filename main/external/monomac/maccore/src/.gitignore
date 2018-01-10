@@ -1,0 +1,6 @@
+*.g.cs
+*/*~
+*~
+bin
+obj
+*.userprefs

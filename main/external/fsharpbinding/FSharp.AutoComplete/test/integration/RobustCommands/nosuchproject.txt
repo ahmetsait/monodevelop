@@ -1,0 +1,2 @@
+ERROR: File '<absolute path removed>/test/integration/RobustCommands/NoSuchProject.fsproj' does not exist
+<<EOF>>
